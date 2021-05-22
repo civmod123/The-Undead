@@ -19,7 +19,7 @@
 		"name": "Abyss",
 		"uniqueTo":"The Undead",
 		"culture": 1,
-		"uniques": ["Gives a defensive bonus of [50]%",
+		"uniques": ["Gives a defensive bonus of [90]%",
 			"Great Improvement"]
 	}
 ]

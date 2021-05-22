@@ -1,4 +1,21 @@
 [
+{
+    "name": "Portal of Power",
+    "uniqueTo": "The Undead",
+    "gold": 1000,
+    "cost": 1,
+    "culture": 2,
+"cityStrength": 100,
+		"cityHealth": 170,
+   	"food": 900,
+   	"production": 10000,
+    "xpForNewUnits": 350,
+"isNationalWonder": true,
+    "specialistSlots": {"Merchant": 1},
+    "hurryCostModifier": 25,
+    "percentStatBonus": {"gold": 25},
+    "uniques": ["[+3 Gold] from [Wine] tiles in this city"],
+  },
 	{
 		"name": "Mass Grave",
 		"uniqueTo": "The Undead",
